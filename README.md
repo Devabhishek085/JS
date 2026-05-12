@@ -107,7 +107,3 @@ Weather app using API fetching:
 - 🔄 Learning Advanced JavaScript
 
 ---
-
-# 📬 Connect With Me
-
-- GitHub: [Devabhishek085](https://github.com/Devabhishek085)
