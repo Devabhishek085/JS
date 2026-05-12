@@ -11,5 +11,10 @@ const collgFriends=["Shashwat","Ayush","Rishi"]
 // friends.push(collgFriends)
 // console.log(friends);
 
-const newArray=[...friends,...collgFriends]
-console.log(newArray);
+// const newArray=[...friends,...collgFriends]
+// console.log(newArray);
+for (let i = 0; i <friends.length; i++) {
+    console.log(friends[i]);
+    
+    
+}
