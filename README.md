@@ -111,7 +111,3 @@ Weather app using API fetching:
 # 📬 Connect With Me
 
 - GitHub: [Devabhishek085](https://github.com/Devabhishek085)
-
----
-
-⭐ If you like this repository, consider giving it a star!
