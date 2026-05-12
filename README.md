@@ -1,67 +1,117 @@
-JavaScript Practice Repository 🚀
+# 🚀 JavaScript Practice Repository
 
-This repository contains my JavaScript learning journey — from basics to intermediate concepts — along with mini projects and DOM practice exercises.
-I created this repo to practice core JavaScript concepts and improve my problem-solving and frontend development skills.
+Welcome to my JavaScript learning repository!  
+This repo contains my practice code, mini projects, and notes while learning JavaScript from basics to intermediate concepts.
 
-📂 Folder Structure
-📁 DOM
+---
 
-Basic DOM manipulation concepts:
+# 📚 What I’m Learning
 
-Selecting elements
-Changing content/styles
-Event handling
-DOM traversal
-📁 DOM-2
+- JavaScript Fundamentals
+- DOM Manipulation
+- Events & Event Handling
+- Async JavaScript
+- Promises & Fetch API
+- Object-Oriented Programming
+- Mini Projects
 
-Advanced DOM concepts:
+---
 
-Creating elements dynamically
-Editing child elements
-Removing elements
-📁 Events
+# 📂 Repository Structure
 
-Practice with:
+## 📁 DOM
+Basic DOM concepts:
+- Selecting elements
+- Changing styles/content
+- DOM traversal
+- Basic event handling
 
-Event listeners
-Keyboard events
-Mouse events
-Event bubbling basics
-📁 Projects
+---
 
-Mini JavaScript projects for practice:
+## 📁 DOM-2
+Advanced DOM manipulation:
+- Creating elements dynamically
+- Editing child elements
+- Removing elements
 
-Keyboard game
-Interactive DOM projects
-Event-based mini apps
-📁 Weather_App
+---
 
-Weather application using API fetching:
+## 📁 Events
+Practice related to:
+- Event listeners
+- Keyboard events
+- Mouse events
+- Event bubbling basics
 
-Fetch API
-Async JavaScript
-API handling
-Dynamic UI updates
-📜 JavaScript Practice Files
-File Name	Topics Covered
-array.js	Arrays & objects
-forOfLoop.js	for...of & forEach loops
-functions.js	Functions
-iife.js	IIFE (Immediately Invoked Function Expressions)
-objects.js	Objects
-oops.js	Object-Oriented Programming
-promise.js	Promises & fetch
-scopes.js	Scope concepts
-string.js	String methods
-switch.js	Switch statements
-two.js	Filter methods
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript (ES6+)
-🎯 Purpose of this Repository
-Practice JavaScript fundamentals
-Improve DOM manipulation skills
-Learn asynchronous JavaScript
-Build mini projects
-Prepare for React and advanced frontend development
+---
+
+## 📁 Projects
+Mini JavaScript projects:
+- Keyboard game
+- Interactive DOM projects
+- Event-based apps
+
+---
+
+## 📁 Weather_App
+Weather app using API fetching:
+- Fetch API
+- Async JavaScript
+- Dynamic UI updates
+- API handling
+
+---
+
+# 📜 Practice Files
+
+| File | Topics |
+|------|---------|
+| `array.js` | Arrays & Objects |
+| `forOfLoop.js` | for...of & forEach loops |
+| `functions.js` | Functions |
+| `iife.js` | IIFE |
+| `objects.js` | Objects |
+| `oops.js` | OOPs Concepts |
+| `promise.js` | Promises & Fetch |
+| `scopes.js` | Scope Concepts |
+| `string.js` | String Methods |
+| `switch.js` | Switch Statements |
+| `two.js` | Filter Methods |
+
+---
+
+# 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+---
+
+# 🎯 Goals
+
+✅ Improve JavaScript fundamentals  
+✅ Practice DOM manipulation  
+✅ Learn async programming  
+✅ Build mini projects  
+✅ Prepare for React.js
+
+---
+
+# 📈 Current Progress
+
+- ✅ JavaScript Basics
+- ✅ DOM Manipulation
+- ✅ Events
+- ✅ Promises & Fetch API
+- 🔄 Learning Advanced JavaScript
+
+---
+
+# 📬 Connect With Me
+
+- GitHub: [Devabhishek085](https://github.com/Devabhishek085)
+
+---
+
+⭐ If you like this repository, consider giving it a star!
